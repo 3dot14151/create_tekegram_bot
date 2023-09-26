@@ -3,6 +3,10 @@
 <h2 style="color: #2e6c80;"Телеграмм бот :</h2>
 <p>Тут собрана подробнпя информация как создать быстро и качественно телеграмм бота. <br />После этого смотреть как он развивается.&nbsp;</p>
 <p>Основной сайт программы <span style="background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;">Админка</span> button to Информирование.</p>
+
+https://a123bot.ru/html/index.php
+
+  
 <h2 style="color: #2e6c80;">Основные возможности:</h2>
 <ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
 <li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/01-interactive-connection.png" alt="interactive connection" width="45" /> Работает 24 часа в сутки</li>
