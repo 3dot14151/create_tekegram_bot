@@ -13,7 +13,7 @@
 <li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/6-table-div-html.png" alt="html table div" width="45" /> Подключение типовых решений/li>
 </ol>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-<h2 style="color: #2e6c80;">Cleaning options:</h2>
+<h2 style="color: #2e6c80;">Тестирование простого бота:</h2>
 <table class="editorDemoTable">
 <thead>
 <tr>
