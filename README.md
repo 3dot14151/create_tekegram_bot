@@ -3,14 +3,14 @@
 <h2 style="color: #2e6c80;"Телеграмм бот :</h2>
 <p>Тут собрана подробнпя информация как создать быстро и качественно телеграмм бота. <br />После этого смотреть как он развивается.&nbsp;</p>
 <p>Основной сайт программы <span style="background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;">Админка</span> button to Информирование.</p>
-<h2 style="color: #2e6c80;">Some useful features:</h2>
+<h2 style="color: #2e6c80;">Основные возможности:</h2>
 <ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/01-interactive-connection.png" alt="interactive connection" width="45" /> Interactive source editor</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/02-html-clean.png" alt="html cleaner" width="45" /> HTML Cleaning</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/03-docs-to-html.png" alt="Word to html" width="45" /> Word to HTML conversion</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/04-replace.png" alt="replace text" width="45" /> Find and Replace</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/05-gibberish.png" alt="gibberish" width="45" /> Lorem-Ipsum generator</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/6-table-div-html.png" alt="html table div" width="45" /> Table to DIV conversion</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/01-interactive-connection.png" alt="interactive connection" width="45" /> Работает 24 часа в сутки</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/02-html-clean.png" alt="html cleaner" width="45" />Хранение информации в базе данных MySQl</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/03-docs-to-html.png" alt="Word to html" width="45" /> WEB Админка управления ботом</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/04-replace.png" alt="replace text" width="45" /> Изменение кода на Python3</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/05-gibberish.png" alt="gibberish" width="45" /> Управление ботом через API</li>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/6-table-div-html.png" alt="html table div" width="45" /> Подключение типовых решений/li>
 </ol>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <h2 style="color: #2e6c80;">Cleaning options:</h2>
